@@ -1,0 +1,1 @@
+# vscode_native_android
