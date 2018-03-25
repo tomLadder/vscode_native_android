@@ -2,12 +2,12 @@
 <img align="left" width="0" height="192px" hspace="10"/>
 
 # vscode_native_android
-> Language: C- Android<br>
+> Language: C - Android<br>
 [![forthebadge](https://forthebadge.com/images/badges/oooo-kill-em.svg)](http://forthebadge.com)
 
 </br>
 </br>
-simple VSCode "project" to demonstrate low level programming (C)
+simple VSCode "project" to demonstrate low level programming (C). Root your device to achieve the full potential ;-)
 <br>
 
 ## Authors
