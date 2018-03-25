@@ -7,7 +7,7 @@
 
 </br>
 </br>
-simple VSCode "project" to demonstrate low level programming (C). Root your device to achieve the full potential ;-)
+simple VSCode "project" to demonstrate low level programming (C). Root your device to unleash the full potential ;-)
 <br>
 
 ## Authors
